@@ -1,7 +1,7 @@
 # Hi, I'm Jackie 👋🏻
 
 ### About me
-- 🔭 I’m currently working on progressively decoupling monolithic content managament systems
+- 🔭 I’m currently working on progressively decoupling monolithic content management systems
 - 🌱 I’m currently learning TypeScript and design patterns
 - 💬 Ask me about UI/UX best practices
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jackie-ou/)
